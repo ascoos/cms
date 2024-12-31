@@ -1,6 +1,10 @@
 # ASCOOS CMS 25'
 
-Commercial cms
+The ASCOOS CMS is a commercial content management system (CMS) distributed under the License ΑGL. 
+
+You can use the ASCOOS CMS in order to materialise simple up to complex sites, without requiring any special technical knowledge.
+
+The ASCOOS name , is initially of words for Alexsoft Software Content Object-Oriented System, that is to say object-oriented content management system of the AlexSoft Software.
 
 ## Operating Systems & Platforms
 <p align="left">
