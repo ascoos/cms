@@ -17,12 +17,3 @@ Commercial cms
 ## Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" alt="Databases" />
 
-### Official Links
-[![Ascoos on Github](https://skillicons.dev/icons?i=github)](https://github.com/ascoos)
-[![Ascoos on Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ascoos/)
-[![Ascoos on Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Ascoos)
-
-
-
-
-
