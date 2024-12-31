@@ -6,6 +6,12 @@ You can use the ASCOOS CMS in order to materialise simple up to complex sites, w
 
 The ASCOOS name , is initially of words for Alexsoft Software Content Object-Oriented System, that is to say object-oriented content management system of the AlexSoft Software.
 
+## Licenses
+    a) ASCOOS CMS General License (AGL)
+    b) ASCOOS Free License        (AGL-F)
+    c) GNU General Public License (GPL)
+
+
 ## Operating Systems & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi&perline=8" alt="Tools & Platforms" />
