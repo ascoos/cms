@@ -6,6 +6,11 @@ You can use the ASCOOS CMS in order to materialise simple up to complex sites, w
 
 The ASCOOS name , is initially of words for Alexsoft Software Content Object-Oriented System, that is to say object-oriented content management system of the AlexSoft Software.
 
+## Requires
+- PHP >= 8.2
+- [Ascoos Framework 24'](https://github.com/ascoos/afw)
+- [phpBCL8](https://github.com/ascoos/phpbcl8)
+
 ## Licenses
     a) ASCOOS CMS General License (AGL)
     b) ASCOOS Free License        (AGL-F)
