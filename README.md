@@ -12,7 +12,7 @@ The ASCOOS name , is initially of words for Alexsoft Software Content Object-Ori
 ## Ascoos Cms 25' Requires
 - PHP >= 8.2
 - ionCube loaders (php extesion)
-- [Ascoos Framework 24'](https://github.com/ascoos/afw)
+- [Ascoos Framework 24' - Commercial Edition](https://github.com/ascoos/afw)
 - [phpBCL8](https://github.com/ascoos/phpbcl8)
 
 ## Licenses
