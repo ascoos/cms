@@ -10,7 +10,7 @@ The ASCOOS name , is initially of words for Alexsoft Software Content Object-Ori
 ![Ascoos Cms 10 - Administration Desktop](https://a.fsdn.com/con/app/proj/ascooscmsextens/screenshots/800px_ascoos_desktop_00100103.jpg)
 
 ## Releases
-The release of version 25 is expected in Q3 2025.
+The release of version 25 is expected in Q3-Q4 2025.
 
 ## Ascoos Cms 25' Requires
 - PHP >= 8.2
